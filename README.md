@@ -1,6 +1,5 @@
 # Hi there👋
 - 🔭 I’m currently working at a Product Based company
-- 👯 I’m looking to collaborate on anything from HTML-Deep Learning
 - 😄 Pronouns: He/Him
   
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cyriacjohn&show_icons=true&theme=radical)

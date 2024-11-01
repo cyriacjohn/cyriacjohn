@@ -3,3 +3,14 @@
 - 👯 I’m looking to collaborate on anything from HTML-Deep Learning
 - 😄 Pronouns: He/Him
   
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cyriacjohn&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyriacjohn&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=cyriacjohn&theme=radical)
+
+### 🛠️ Tech Stack
+- Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- Frameworks: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cyriac-john-5b7844216/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/cyriacjohn)

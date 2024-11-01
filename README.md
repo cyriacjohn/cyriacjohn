@@ -1,4 +1,5 @@
 # Hi there👋
+- 👋 I'm [Cyriac] – a tech enthusiast driven by a passion for creative solutions, aiming to make an impact through innovative, community-driven projects!
 - 🔭 I’m currently working at a Product Based company
 - 😄 Pronouns: He/Him
   

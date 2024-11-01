@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at a Product based company
 - 😄 Pronouns: He/Him
   
-![Stats](https://github-readme-stats.vercel.app/api?username=cyriacjohn&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyriacjohn&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=cyriacjohn&theme=radical)
 
 ### 🛠️ Tech Stack

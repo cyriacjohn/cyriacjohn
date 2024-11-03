@@ -1,6 +1,7 @@
 # heyyyy👋
-- 👋 I'm Cyriac, a tech enthusiast driven by a passion for creative solutions, aiming to make an impact through innovative, community-driven projects!
-- 🔭 I’m currently working at a Product based company
+- 👋 I'm Cyriac, a tech enthusiast driven by a passion for creative solutions.
+- 🎯 Aiming to make an impact through innovative, community-driven projects!
+- 🔭 Currently working at a Product based company
 - 😄 Pronouns: He/Him
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyriacjohn&show_icons=true&theme=radical)

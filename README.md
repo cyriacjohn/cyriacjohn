@@ -30,6 +30,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 💻 **"It's not a bug; it's an undocumented feature."**
+
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cyriac-john-5b7844216/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/cyriacjohn)

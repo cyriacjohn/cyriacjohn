@@ -1,6 +1,8 @@
 # heyyyy👋
 
-![Demo GIF](https://github.com/cyriacjohn/cyriacjohn/blob/main/demo.gif)
+<p align="center">
+  <img src="https://github.com/cyriacjohn/cyriacjohn/blob/main/demo.gif" alt="Demo GIF"/>
+</p>
 
 - 👋 I'm Cyriac, a tech enthusiast driven by a passion for creative solutions.
 - 🎯 Aiming to make an impact through innovative, community-driven projects!

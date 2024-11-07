@@ -9,8 +9,14 @@
 - 🔭 Currently working at a Product based company
 - 😄 Pronouns: He/Him
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyriacjohn&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=cyriacjohn&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyriacjohn&show_icons=true&theme=radical" alt="Github Stats"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=cyriacjohn&theme=radical" alt="Github Streak"/>
+</p>
+
+
 
 ### 🛠️ Tech Stack
 ### Programming Languages

@@ -1,4 +1,7 @@
 # heyyyy👋
+
+![Demo GIF](https://github.com/cyriacjohn/cyriacjohn/blob/main/demo.gif)
+
 - 👋 I'm Cyriac, a tech enthusiast driven by a passion for creative solutions.
 - 🎯 Aiming to make an impact through innovative, community-driven projects!
 - 🔭 Currently working at a Product based company

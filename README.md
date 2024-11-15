@@ -10,7 +10,8 @@
 - 😄 Pronouns: He/Him
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyriacjohn&show_icons=true&theme=radical" alt="Github Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cyriacjohn&show_icons=true&theme=radical&count_private=true&custom_title=My%20Stats&token=YOUR_PERSONAL_ACCESS_TOKEN" alt="GitHub Stats"/>
+
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyriacjohn&theme=radical" alt="GitHub Streak"/>

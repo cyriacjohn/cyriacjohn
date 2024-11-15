@@ -10,7 +10,8 @@
 - 😄 Pronouns: He/Him
   
 <p align="center">
-  <img src="<img src="https://github-readme-stats.vercel.app/api?username=cyriacjohn&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cyriacjohn&show_icons=true&theme=radical" alt="GitHub Stats"/>
+
 "/>
 
 </p>
